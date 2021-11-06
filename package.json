@@ -2,25 +2,25 @@
   "name": "Hashzi",
   "version": "1.0.8",
   "description": "",
-  "main": ".//bot.js",
+  "main": "./Hashzi2.0/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jesonpro/Hashzi"
   },
   "keywords": [
     "whatsapp",
     "whatsapp bot",
     "user bot"
   ],
-  "author": "",
+  "author": "TENUHX-03",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jesonpro/Hashzi"
   },
-  "homepage": "",
+  "homepage": "https://github.com/jesonpro/Hashzi",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
