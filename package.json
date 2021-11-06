@@ -1,14 +1,14 @@
 {
   "name": "Hashzi",
   "version": "1.0.8",
-  "description": "",
+  "description": "Super button Bot By TeenuhX",
   "main": "./Hashzi2.0/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jesonpro/Hashzi"
+    "url": "git+https://github.com/jesonpro/Hashzi.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,9 +18,9 @@
   "author": "TENUHX-03",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/jesonpro/Hashzi"
+    "url": "https://github.com/jesonpro/Hashzi/issues"
   },
-  "homepage": "https://github.com/jesonpro/Hashzi",
+  "homepage": "https://github.com/jesonpro/Hashzi#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "axios": "^0.21.1",
